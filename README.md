@@ -2,7 +2,6 @@ Zadanie 3
 
 Temat: Modelowanie terenu (Wyspa skarbów)
 
-Nazwa pliku – (NazwiskoImieZadanie3.zip np. FilipczykGrzegorzZadanie3.zip)
 
 Jako wynik realizacji zadania 3 należy dostarczyć skompilowaną wersję projektu (gry) dla
 systemu Windows 10/11 (bez plików źródłowych).
